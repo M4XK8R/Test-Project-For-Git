@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test-Project-For-Git</string>
+    <string name="git_greeting">Hello Git!</string>
 </resources>
